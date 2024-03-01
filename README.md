@@ -1,1 +1,1 @@
-# geminiBot
+run npm install
